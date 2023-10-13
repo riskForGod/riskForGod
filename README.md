@@ -1,4 +1,4 @@
-I'm riskForGod
+I'm riskForGod 
 I take risk for a living
 I love to programming
 I code in Java, Python, HTML, CSS, JavaScript, PHP, and i pick up any programming language pretty easy
