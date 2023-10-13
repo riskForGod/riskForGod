@@ -1,12 +1,15 @@
 I'm riskForGod 
 
-I take risk for a living
+I take risk for a living /* pro billiard player
+
+writer, consultant, an investor(Crypto, Forex, Stocks), Gamer, I could be anything, i just have put in 
+print(some.effort)*/
 
 I love to programming
 
 I code in Java, Python, HTML, CSS, JavaScript, PHP, and i pick up any programming language pretty easy
 
-I also teach the languages mentioned above //Ln4
+I also teach the languages mentioned above //Ln10
 
 I own a foundation that feeds 50 people daily, my goal is to feed 5000 families across the globe(ZAHEER FOUNDATION)
 
